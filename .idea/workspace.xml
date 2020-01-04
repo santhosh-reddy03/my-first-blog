@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="674625d6-97ac-4c89-b763-9d149634572b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hireme/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hireme/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hireme/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hireme/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
